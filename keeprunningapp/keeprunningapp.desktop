@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=keeprunningapp
+Exec=keeprunningapp
+Icon=keeprunningapp/keeprunningapp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

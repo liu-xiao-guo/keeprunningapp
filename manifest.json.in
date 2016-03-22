@@ -1,0 +1,15 @@
+{
+    "name": "keeprunningapp.liu-xiao-guo",
+    "description": "description of keeprunningapp",
+    "architecture": "@CLICK_ARCH@",
+    "title": "keeprunningapp",
+    "hooks": {
+        "keeprunningapp": {
+            "apparmor": "keeprunningapp/keeprunningapp.apparmor",
+            "desktop": "keeprunningapp/keeprunningapp.desktop"
+        }
+    },
+    "version": "0.2",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
